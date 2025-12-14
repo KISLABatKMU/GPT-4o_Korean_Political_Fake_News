@@ -1,7 +1,6 @@
 KOREAN FAKE NEWS DB: A GENERATED DATASET FOR KOREAN FAKE NEWS RESEARCH
 Sangmin Lee, Yoojin Lee, Woojin Jang, Hyunchul Ahn, A Study on Constructing a Korean Fake News Dataset Using Generative AI and Comparing Detection Models (2025), Journal of Intelligence and Information Systems, Vol. 31, No. 4, Forthcoming.
 
-=====================================================================
 Description of the CSV format:
 Column 1: the ID of the news item.
 Column 2: the original document title (doc_title).
@@ -20,7 +19,6 @@ Column 9-15: the detailed qualitative analysis components extracted from the ana
 13: word/expression manipulation (단어/표현 조작).
 14: addition of fabricated evidence (가상근거 추가).
 15: selective information presentation (선택적 정보).
-======================================================================
 
 The original sources retain the copyright of the data.
 Note that there are absolutely no guarantees with this data,
